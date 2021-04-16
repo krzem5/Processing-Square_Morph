@@ -1,1 +1,3 @@
-start "" "projects/Processing-Square_Morph/index/index.pde"
+@echo off
+cls
+python build.py %*
