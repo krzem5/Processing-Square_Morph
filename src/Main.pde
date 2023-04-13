@@ -3,7 +3,6 @@ final int TOTAL_STEP=20;
 
 
 
-
 ArrayList<PVector> square=new ArrayList<PVector>();
 ArrayList<PVector> circle=new ArrayList<PVector>();
 ArrayList<PVector> verts=new ArrayList<PVector>();
